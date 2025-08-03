@@ -62,7 +62,7 @@ a d1000 b8 d1m bbbbb
 aa dddddd b ddddddd bb bbb
   ccccccc b d1000 eeee d10 bb bbb
   aaa d00 bbbbb
-  c b "%d. %s\n"b9 d1000, ddd bbbbbb d8 bbbbbbb bb bbbbb
+  c b "%d. %s\n"b9 d1000 b9 ddd bbbbbb d8 bbbbbbb bb bbbbb
   ccc b a d0m b8 d100 bbbbb d0m e d11 bbbbb d0m ee bb bbb 
     c b "%c. %s\n" b9 dddddddd bbbbbb d0m bbbbbbb b9 dddd bbbbbb d9 bbbbbbb bbbbbb d0m bbbbbbb bb bbbbb
 bbbb
